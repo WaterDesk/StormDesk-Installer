@@ -8,6 +8,19 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 1.1.0
+ * Upgrade EPASWMM engine to 5.2.0
+ * Add Streets cross-section, Inlet object, and [INLET_USAGE] property of conduit, and etc.
+ * Add Streets model example into the installer
+ * Quick evaluation of Streets flooding
+ * Runoff Quantity Continuity analysis
+ * Data Import: import lines or polylines from DXF file as conduits
+ * Add Customer Objects with water usage info which can be allocated to adjacent junctions automatically as DWF.
+ * Support to batch convert objects to other types of node or links
+ * Support to move network by adjusting X,Y values
+ * Add a summary table about invisible objects in the right project panel
+ * Some performance and UI improvements, and some bug fixes
+ 
 ### version 1.0.0
  * Full capabilities of EPA SWMM5
  * Data Import: INP, Excel, and Shape Files
