@@ -8,22 +8,29 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 2.0.0
+
+- Add <b>Designing</b> module for rainwater pipeline degign with inference formular method, achieving seamless integration between network design and model simulation
+- Add rainstorm intensity formula editor
+- Enhance importing dxf file as Conduit, Subcatchment, Line, and Polygon
+- Some performance and UI improvements, and some bug fixes
+
 ### version 1.2.0
 
-- add general Line object
-- add Velocity SCADA object
-- graph: display precipitation graph together with object results
-- multiple graph: add scada object, display precipitation graph together with other objects
-- merge model file (.wsm)
-- add navigation mode settings in status bar: highlight, move, zoom with different levels
-- support hot start for simulation
-- support to covert objects in shape background files to model objects, such as junction, conduit, subcatchment, point, polygon, and etc.
-- data integrity check, data evaluation
-- get raingage rainfall data from scada
-- inference the invert elevation of junction
-- time series expression editor; convert scada data to time series by expression
-- model result precision analysis
-- allow not to load result when open a model
+- Add general Line object
+- Add Velocity SCADA object
+- Graph: display precipitation graph together with object results
+- Multiple graph: add scada object, display precipitation graph together with other objects
+- Merge model file (.wsm)
+- Add navigation mode settings in status bar: highlight, move, zoom with different levels
+- Support hot start for simulation
+- Support to covert objects in shape background files to model objects, such as junction, conduit, subcatchment, point, polygon, and etc.
+- Data integrity check, data evaluation
+- Get raingage rainfall data from scada
+- Inference the invert elevation of junction
+- Time series expression editor; convert scada data to time series by expression
+- Model result precision analysis
+- Allow not to load result when open a model
 - Some performance and UI improvements, and some bug fixes
 
 ### version 1.1.0
