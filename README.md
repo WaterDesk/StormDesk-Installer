@@ -2,11 +2,15 @@
 
 StormDesk, a fully functional drainage modelling software based on EPASWMM, covers the whole process of 1D Hydrologic and Hydraulic modelling process. In addition, a lot of extra efforts have also been made after adopting the experience of many front-line engineers, to improve user interface and enhance toolboxes, which allow users to focus on the engineering.
 
-As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), StormDesk is <b>FREE</b> too!
+As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), StormDesk is developed by Shanghai Huishui Technology Inc. too!
 
 ![StormDesk](./images/StormDesk_01.png)
 
 ## Release Notes
+
+### version 2.1.0
+
+- Some bug fixes
 
 ### version 2.0.0
 
