@@ -8,13 +8,33 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 3.0.0
+
+- Add <b>Themes</b>, allow users to set theme settings instead of legends to enrich visualizations
+- New legend control when a theme is applied
+- Import DEM file (\*.asc) as DEM layer with Color Ramp settings, show DEM with Profile Graph, infer Junction elevation from DEM
+- New Project Settings window with improved object default display settings
+- Upgrade EPASWMM engine to 5.2.4
+- Improve selection: polygonal selection, reverse selection, customize selection pick box size, press `SHIFT` to unselect, interactive between selection and Object tables
+- Tree view for selection sets
+- Context menu of Project Tree: Zoom to layer
+- Status bar: turn on/off object tooltip in map
+- Localization for LID Control Editor
+- Allow copy a LID Control data
+- Tools:
+  - Find shortest path by given two objects
+  - Search sub-networks by given objects
+  - Simplify vertices of conduits
+  - Join similar neighbor conduits
+- Some performance and UI improvements, and some bug fixes
+
 ### version 2.1.0
 
 - Some bug fixes
 
 ### version 2.0.0
 
-- Add <b>Designing</b> module for rainwater pipeline degign with inference formular method, achieving seamless integration between network design and model simulation
+- Add <b>Designing</b> module for rainwater pipeline design with inference formula method, achieving seamless integration between network design and model simulation
 - Add rainstorm intensity formula editor
 - Enhance importing dxf file as Conduit, Subcatchment, Line, and Polygon
 - Some performance and UI improvements, and some bug fixes
@@ -24,15 +44,15 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 - Add general Line object
 - Add Velocity SCADA object
 - Graph: display precipitation graph together with object results
-- Multiple graph: add scada object, display precipitation graph together with other objects
+- Multiple graph: add SCADA object, display precipitation graph together with other objects
 - Merge model file (.wsm)
 - Add navigation mode settings in status bar: highlight, move, zoom with different levels
 - Support hot start for simulation
 - Support to covert objects in shape background files to model objects, such as junction, conduit, subcatchment, point, polygon, and etc.
 - Data integrity check, data evaluation
-- Get raingage rainfall data from scada
+- Get Raingage rainfall data from SCADA
 - Inference the invert elevation of junction
-- Time series expression editor; convert scada data to time series by expression
+- Time series expression editor; convert SCADA data to time series by expression
 - Model result precision analysis
 - Allow not to load result when open a model
 - Some performance and UI improvements, and some bug fixes
