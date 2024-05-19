@@ -8,6 +8,14 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 3.1.0
+
+- batch edit for "Inflow Type" column in Node Inflow data window (direct pollutant tab)
+- refresh conduit layer after inferring width
+- add "refresh" button in Network Group window to analysis continuously
+- add "Node Surcharge" in Summary Tables
+- Some performance and UI improvements, and some bug fixes
+
 ### version 3.0.0
 
 - Add <b>Themes</b>, allow users to set theme settings instead of legends to enrich visualizations
