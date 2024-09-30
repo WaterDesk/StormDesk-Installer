@@ -8,6 +8,15 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 4.0.0
+
+- Upgrade to Education Edition
+- AI assistant "XIAO HUI" is online
+- infer upstream/downstream conduit's elevation
+- improve the subcatchment division by Thiessen polygon
+- import SCADA points by CSV files
+- Some performance and UI improvements, and some bug fixes
+
 ### version 3.1.0
 
 - batch edit for "Inflow Type" column in Node Inflow data window (direct pollutant tab)
@@ -59,7 +68,7 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 - Support to covert objects in shape background files to model objects, such as junction, conduit, subcatchment, point, polygon, and etc.
 - Data integrity check, data evaluation
 - Get Raingage rainfall data from SCADA
-- Inference the invert elevation of junction
+- Infer the invert elevation of junction
 - Time series expression editor; convert SCADA data to time series by expression
 - Model result precision analysis
 - Allow not to load result when open a model
