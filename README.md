@@ -24,7 +24,7 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
-### version 4.0.3
+### version 4.0.4
 
 - fix Date & Number format issue for some non-English/non-Chinese regions
 - fix product registration failure due to network issue
