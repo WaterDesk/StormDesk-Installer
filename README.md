@@ -6,7 +6,29 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ![StormDesk](./images/StormDesk_01.png)
 
+## System Requirements
+
+- System requirements for StormDesk Educational
+
+  |                      |                                                              |
+  | -------------------- | ------------------------------------------------------------ |
+  | **Operating System** | 64-bit Microsoft® Windows® 11 and Windows 10                 |
+  | **Processor**        | **Basic**: 2.5-2.9 GHz processor with 8 logical cores (base) |
+  |                      | **Recommended**: 3+ GHz processor (base), 4+ GHz (turbo)     |
+  | **Memory**           | **Basic**: 16 GB                                             |
+  |                      | **Recommended**: 64 GB                                       |
+  | Display Resolution   | 1920 x 1080 with True Color                                  |
+  | Disk Space           | 500G (suggested SSD)                                         |
+  | .NET Framework       | .NET Framework 版本 4.8                                      |
+  | VC Runtime           | Visual C++ Redistributable for Visual Studio 2015-2022       |
+
 ## Release Notes
+
+### version 4.0.3
+
+- fix Date & Number format issue for some non-English/non-Chinese regions
+- fix product registration failure due to network issue
+- add English version of StormDesk User Application form
 
 ### version 4.0.0
 
