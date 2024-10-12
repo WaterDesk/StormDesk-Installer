@@ -19,7 +19,7 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
   |                      | **Recommended**: 64 GB                                       |
   | Display Resolution   | 1920 x 1080 with True Color                                  |
   | Disk Space           | 500G (suggested SSD)                                         |
-  | .NET Framework       | .NET Framework 版本 4.8                                      |
+  | .NET Framework       | .NET Framework version 4.8                                   |
   | VC Runtime           | Visual C++ Redistributable for Visual Studio 2015-2022       |
 
 ## Release Notes
