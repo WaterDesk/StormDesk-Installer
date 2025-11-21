@@ -24,6 +24,11 @@ As a sister product of [WaterDesk](https://github.com/WaterDesk/WaterDesk-WS), S
 
 ## Release Notes
 
+### version 5.0.0
+
+- support undo/redo
+- some other performance/UI improvement and bug fixes
+
 ### version 4.0.4
 
 - fix Date & Number format issue for some non-English/non-Chinese regions
